@@ -1,4 +1,4 @@
-# Business Case with Artificial Intelligence, Deep Learning and Natural Language Processing
+# Business Cases with Artificial Intelligence, Deep Learning and Natural Language Processing
 
 This is a comprehensive repository featuring six detailed business case studies, analyzed using advanced Artificial Intelligence (AI), Deep Learning (DL), and Natural Language Processing (NLP) models. This project aims to provide insightful analyses and solutions to complex business challenges through Data Science.
 
