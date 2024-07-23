@@ -16,3 +16,15 @@ This case study focuses on the Human Resources (HR) department and aims to analy
 ### Key Findings:
 - Parameters such as age, total working years, job post and monthly income impacted employee retention the most.
 - The deep learning model would be able to predict the number of employees that would be retained with the accuracy of 84% based on historical data.
+
+
+## Case Study 2: Marketing
+
+### Description:
+This case study focuses on the Marketing department and aims to growth, sales and revenue within the company. To leverage data science tools to understand customers and identify their needs. Data is used to perform market segmentation. This particular case deals with a bank which is trying to understand their audience to release a targeted ad marketing campaign by dividing their customers into at least 3 distinctive groups. 
+
+### Analysis Tools:
+
+
+### Key Findings:
+
