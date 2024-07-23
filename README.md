@@ -25,6 +25,8 @@ This case study focuses on the Marketing department and aims to growth, sales an
 
 ### Analysis Tools:
 -Visualization Tools: Heatmap, KDE plots, histogram
+- K-Mean Clusters
+- Principal Component Analysis
 
 ### Key Findings:
 
