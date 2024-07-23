@@ -27,6 +27,7 @@ This case study focuses on the Marketing department and aims to growth, sales an
 - Visualization Tools: Heatmap, KDE plots, histogram
 - K-Mean Clusters
 - Principal Component Analysis
+- Autoencoders
 
 ### Key Findings:
 
