@@ -24,7 +24,7 @@ This case study focuses on the Human Resources (HR) department and aims to analy
 This case study focuses on the Marketing department and aims to growth, sales and revenue within the company. To leverage data science tools to understand customers and identify their needs. Data is used to perform market segmentation. This particular case deals with a bank which is trying to understand their audience to release a targeted ad marketing campaign by dividing their customers into at least 3 distinctive groups. 
 
 ### Analysis Tools:
-
+-Visualization Tools: Heatmap, KDE plots, histogram
 
 ### Key Findings:
 
