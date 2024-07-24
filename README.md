@@ -31,3 +31,16 @@ This case study focuses on the Marketing department and aims to growth, sales an
 
 ### Key Findings:
 
+## Case Study 3: Sales
+
+### Description:
+This case study focuses on the Sales department and aims to predict future daily sales based on some features such as stores, promotions, store size, state holidays, distance from competition, etc. We also aim to predict future weekly, monthly and yearly trends. The data set in this case uses data from 1115 stores. 
+
+### Analysis Tools:
+- Visualization Tools: Heatmap, KDE plots, histogram
+- Facebook Prophet
+- Principal Component Analysis
+- Autoencoders
+
+### Key Findings:
+
