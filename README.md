@@ -43,4 +43,6 @@ This case study focuses on the Sales department and aims to predict future daily
 - Autoencoders
 
 ### Key Findings:
+- Promotions had a direct positive relation to sales in store
+- 
 
