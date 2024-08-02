@@ -48,13 +48,17 @@ This case study focuses on the Sales department and aims to predict future daily
 - The maximum average sales per day in a month is towards the beginning and the end of the month
 
 
-## Case Study 3: Operations
+## Case Study 4: Operations
 
 ### Description:
 This case study focuses on the Operations department and aims to understand and label the type of lung disease based on previous historical data. This department is part of the hospital which wants to make it easier to label diseases and make their analysis quicker. There are 4 different types of categories- Healthy, Covid- 19, Bacterial Pneumonia and Viral Pneumonia. We will use Image Classification to perform our analysis.
 
 ### Analysis Tools:
-- Visualization Tools: 
+- Visualization Tools:
+- Deep Learning
+- Transfer Learning
 
 ### Key Findings:
+- Model achieved 82.5% accuracy on test data
+- 
 
