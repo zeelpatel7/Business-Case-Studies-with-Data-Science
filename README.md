@@ -60,5 +60,21 @@ This case study focuses on the Operations department and aims to understand and 
 
 ### Key Findings:
 - Model achieved 82.5% accuracy on test data
+
+
+## Case Study 5: Public Relations Department
+
+### Description:
+This case study focuses on the Public Relations department and aims to understand the sentiment of customers based on their reviews of products. This department is part of an MNC which wants to understand how to better their products. There are extensive data in text format and we aim to understand whether the customer is satisfied with the product or not.
+
+### Analysis Tools:
+- Visualization Tools:
+- Natural Language Processing
+- Count Vectorizer
+- Naive Bayes classifier
+- Logistic Regression classifier
+
+### Key Findings:
+- Model achieved 82.5% accuracy on test data
 - 
 
