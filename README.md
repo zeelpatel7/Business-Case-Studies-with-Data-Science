@@ -65,10 +65,10 @@ This case study focuses on the Operations department and aims to understand and 
 ## Case Study 5: Public Relations Department
 
 ### Description:
-This case study focuses on the Public Relations department and aims to understand the sentiment of customers based on their reviews of products. This department is part of an MNC which wants to understand how to better their products. There are extensive data in text format and we aim to understand whether the customer is satisfied with the product or not.
+This case study focuses on the Public Relations department and aims to understand the sentiment of customers based on their reviews of products. This department is part of an MNC which wants to understand how to better their products. There are extensive data in text format and we aim to understand whether the customer is satisfied with the product or not. We'll be doing sentiment analysis to understand whether the product is well received or not.
 
 ### Analysis Tools:
-- Visualization Tools:
+- Visualization Tools: Histogram, countplot, WordCloud
 - Natural Language Processing
 - Count Vectorizer
 - Naive Bayes classifier
@@ -76,5 +76,5 @@ This case study focuses on the Public Relations department and aims to understan
 
 ### Key Findings:
 - Model achieved 82.5% accuracy on test data
-- 
+
 
