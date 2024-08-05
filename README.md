@@ -75,6 +75,6 @@ This case study focuses on the Public Relations department and aims to understan
 - Logistic Regression classifier
 
 ### Key Findings:
-- Model achieved 82.5% accuracy on test data
+- Model achieved 96% accuracy on test data
 
 
