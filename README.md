@@ -78,3 +78,17 @@ This case study focuses on the Public Relations department and aims to understan
 - Model achieved 96% accuracy on test data
 
 
+## Case Study 5: Public Relations Department
+
+### Description:
+This case study focuses on the Maintenance and Manufacturing department and aims to understand the defects and faults in the manufacturing of steel pipeline. The input images will be used to train a deep learning model. The ResUNet model will be implemented on the images where the defect has been detected. The goal is to automate the process of detecting and localizing defects found in steel manufacturing. The classification will be done at Pixel level.
+
+### Analysis Tools:
+- Visualization Tools: Histogram, countplot, WordCloud
+- Deep Learning
+- ResUNet Segmentation Model
+
+### Key Findings:
+- Model achieved 96% accuracy on test data
+
+
