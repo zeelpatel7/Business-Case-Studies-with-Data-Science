@@ -8,7 +8,7 @@ This study delves into employee retention within the Human Resources (HR) depart
 
 ### Tools & Techniques:
 Models: Logistic Regression, Random Forest, Deep Learning
-Visualization: Heatmaps, Histograms, KDE Plots, Box Plots
+Visualization: Heatmaps, Histograms, KDE Plots, Box Plots, Countplot
 
 #### Key Insights:
 Significant factors affecting retention include age, total working years, job role, and monthly income.
@@ -20,11 +20,12 @@ This case study explores market segmentation in the Marketing department to opti
 
 ### Tools & Techniques:
 Models: K-Means Clustering, Principal Component Analysis, Autoencoders
-Visualization: Heatmaps, KDE Plots, Histograms
+Visualization: Heatmaps, KDE Plots, Histograms, Scatter plot
 
 ### Key Insights:
-[Insert specific findings here]
-
+High-Spenders: Cluster 6 includes customers with high purchases and credit usage.
+Low-Engagement Customers: Cluster 4 seems to include customers with lower balances, credit limits, and minimal usage of their credit cards.
+Segment Variability: The variability across clusters highlights distinct customer segments, which can be targeted differently in marketing strategies.
 
 ## Case Study 3: Sales
 ### Overview:
