@@ -1,6 +1,6 @@
 # Business Cases with Artificial Intelligence, Deep Learning, and Natural Language Processing
 
-This repository presents six in-depth business case studies, each dissected using advanced Artificial Intelligence (AI), Deep Learning (DL), and Natural Language Processing (NLP) models. The project provides a robust framework for addressing complex business challenges through the power of Data Science, offering actionable insights and data-driven solutions.
+This repository presents five in-depth business case studies, each dissected using advanced Artificial Intelligence (AI), Deep Learning (DL), and Natural Language Processing (NLP) models. The project provides a robust framework for addressing complex business challenges through the power of Data Science, offering actionable insights and data-driven solutions.
 
 ## Case Study 1: Human Resources
 ### Overview:
