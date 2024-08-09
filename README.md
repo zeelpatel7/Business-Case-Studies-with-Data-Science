@@ -87,6 +87,7 @@ This case study focuses on the Maintenance and Manufacturing department and aims
 - Visualization Tools: Histogram, countplot, WordCloud
 - Deep Learning
 - ResUNet Segmentation Model
+- Run Length Encoding
 
 ### Key Findings:
 - Model achieved 96% accuracy on test data
