@@ -10,7 +10,7 @@ This study delves into employee retention within the Human Resources (HR) depart
 Models: Logistic Regression, Random Forest, Deep Learning
 Visualization: Heatmaps, Histograms, KDE Plots, Box Plots, Countplot
 
-#### Key Insights:
+### Key Insights:
 Significant factors affecting retention include age, total working years, job role, and monthly income.
 The deep learning model achieved an 84% accuracy in predicting employee retention based on historical data.
 
